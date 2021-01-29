@@ -69,7 +69,7 @@ the source code, the follow the following instructions.
 **gftools** which can be found [here](https://github.com/googlefonts/gftools)<br>
 **ttfautohint** which can be found [here](https://www.freetype.org/ttfautohint/)<br>
 
-3. Run the build.sh script located in the "scripts" folder. This should make both the variable and non-variable versions of the font.
+3. Run the build.sh script located in the "scripts" folder. You should run the script from the "scripts" folder. This should make both the variable and non-variable versions of the font.
 
 Contact
 -------
